@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Eduardo-Malhao.github.io/static/css/main.63ffa884.css",
-    "main.js": "/Eduardo-Malhao.github.io/static/js/main.93a04343.js",
-    "static/media/hero-dark.jpg": "/Eduardo-Malhao.github.io/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/Eduardo-Malhao.github.io/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/Eduardo-Malhao.github.io/service-worker.js",
-    "static/media/GH.svg": "/Eduardo-Malhao.github.io/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/defaultNavLogo.svg": "/Eduardo-Malhao.github.io/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/logo.svg": "/Eduardo-Malhao.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Eduardo-Malhao.github.io/index.html",
-    "main.63ffa884.css.map": "/Eduardo-Malhao.github.io/static/css/main.63ffa884.css.map",
-    "main.93a04343.js.map": "/Eduardo-Malhao.github.io/static/js/main.93a04343.js.map"
+    "main.css": "/Me/static/css/main.63ffa884.css",
+    "main.js": "/Me/static/js/main.f1f204e3.js",
+    "static/media/hero-dark.jpg": "/Me/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/Me/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/Me/service-worker.js",
+    "static/media/GH.svg": "/Me/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/Me/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/Me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Me/index.html",
+    "main.63ffa884.css.map": "/Me/static/css/main.63ffa884.css.map",
+    "main.f1f204e3.js.map": "/Me/static/js/main.f1f204e3.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.93a04343.js"
+    "static/js/main.f1f204e3.js"
   ]
 }
