@@ -18,7 +18,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "Eduardo-Malhao";
 
 // Navbar Logo image
 export const navLogo = undefined;
@@ -31,8 +31,7 @@ export const Blog = <Icon icon="ph:link-bold" />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
-
+  "I am a Full Stack Web Developer. I have experience with TypeScript, React, Node.js, and Express. I am passionate about creating beautiful, intuitive, and user-friendly websites.";
 /* Skills
  ************************************************************** 
   Add or remove skills in the SAME format below, choose icons here - https://icon-sets.iconify.design/
@@ -55,33 +54,63 @@ export const skillData = [
   },
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+    skill: <Icon icon="logos:typescript-icon" className="display-4" />,
+    name: "TypeScript",
   },
   {
     id: 5,
+    skill: <Icon icon="logos:java" className="display-4" />,
+    name: "Java",
+  },
+  {
+    id: 6,
+    skill: <Icon icon="logos:spring-icon" className="display-4" />,
+    name: "Spring",
+  },
+  {
+    id: 7,
     skill: <Icon icon="mdi:react" className="display-4" />,
     name: "React",
   },
   {
-    id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
-  },
-  {
-    id: 7,
+    id: 8,
     skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
     name: "Redux",
   },
   {
-    id: 8,
+    id: 9,
+    skill: <Icon icon="logos:nodejs-icon" className="display-4" />,
+    name: "Nodejs",
+  },
+  {
+    id: 10,
+    skill: <Icon icon="logos:docker-icon"className="display-4" />,
+    name: "Docker",
+  },
+  {
+    id: 11,
     skill: <Icon icon="bi:git" className="display-4" />,
     name: "Git",
   },
   {
-    id: 9,
+    id: 12,
     skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
     name: "GitHub",
+  },
+  {
+    id: 13,
+    skill: <Icon icon="logos:python" className="display-4" />,
+    name: "Python",
+  },
+  {
+    id: 14,
+    skill: <Icon icon="logos:jwt" className="display-4" />,
+    name: "JWT",
+  },
+  {
+    id: 15,
+    skill: <Icon icon="logos:mysql-icon" className="display-4" />,
+    name: "MySQL",
   },
 ];
 

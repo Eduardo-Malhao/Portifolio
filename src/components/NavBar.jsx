@@ -85,11 +85,11 @@ export default function NavBar({ Logo }) {
       { id: "2R", name: "All Projects", route: "/All-Projects" },
     ],
     to: [
-      { id: "1T", name: "Home", to: "Home" },
+      // { id: "1T", name: "Home", to: "Home" },
       { id: "2T", name: "About Me", to: "About" },
       { id: "3T", name: "Skills", to: "Skills" },
       { id: "4T", name: "Projects", to: "Projects" },
-      { id: "5T", name: "Contact", to: "Contact" },
+      // { id: "5T", name: "Contact", to: "Contact" },
     ],
   };
 
@@ -107,13 +107,13 @@ export default function NavBar({ Logo }) {
       >
         <Container>
           <Navbar.Brand>
-            <img
+            {/* <img
               alt="Logo"
               src={Logo}
               width="35"
               height="35"
               className="rounded-circle"
-            />
+            /> */}
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="responsive-navbar-nav"

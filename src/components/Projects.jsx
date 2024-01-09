@@ -49,7 +49,7 @@ export default function Projects() {
           <Container className="d-flex">
             <Title>
               <h2>Projects</h2>
-              <div className="underline"></div>
+              {/* <div className="underline"></div> */}
             </Title>
           </Container>
           {isLoading && (
