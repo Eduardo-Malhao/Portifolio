@@ -15,7 +15,7 @@ export default function Skills() {
         <Container className="text-center">
           <Title>
             <h2>Skills</h2>
-            <div className="underline"></div>
+            {/* <div className="underline"></div> */}
           </Title>
           <Row className="mt-3 align-items-center">
             {skillData.map((skills) => {
